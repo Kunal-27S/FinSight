@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "period": "July 2021 - January 2022",
+    "total_incidents": 64,
+    "description": "Comprehensive database of major and minor incidents affecting stock values of top technology companies",
+    "target_companies": [
+      "Apple",
+      "Google/Alphabet",
+      "NVIDIA",
+      "Microsoft",
+      "IBM",
+      "Facebook/Meta",
+      "Amazon",
+      "Tesla"
+    ],
+    "created": "2025-10-26"
+  },
+  "incidents": [
+    {
+      "date": "2021-07-23 to 2021-08-08",
+      "incident": "Tokyo Olympics without spectators",
+      "description": "Delayed Olympics held without foreign spectators due to COVID-19, estimated losses up to $29.1B for Japan",
+      "type": "Business",
+      "impact": "Economic losses for Japan, ongoing pandemic uncertainty affecting global business"
+    },
+    {
+      "date": "2021-08-15",
+      "incident": "Taliban takeover of Afghanistan",
+      "description": "Taliban entered Kabul and seized control, Afghan President fled, government collapsed. U.S. forces evacuated personnel",
+      "type": "Geopolitical",
+      "impact": "Political instability, defense sector implications, market uncertainty, regional security concerns"
+    },
+    {
+      "date": "2021-08-18",
+      "incident": "Stock markets slide on multiple concerns",
+      "description": "Markets fell on Fed taper concerns, COVID Delta variant, Chinese economic weakness, and Afghanistan crisis",
+      "type": "Economic",
+      "impact": "FTSE 100 down 1.5%, Dow down 0.25%, oil down 3%, market-wide volatility"
+    },
+    {
+      "date": "2021-08-15",
+      "incident": "Lebanon fuel tank explosion",
+      "description": "At least 20 killed, 75 injured in fuel tank explosion in Akkar region during fuel shortage",
+      "type": "Disaster",
+      "impact": "Regional instability, energy crisis concerns"
+    },
+    {
+      "date": "2021-08-21",
+      "incident": "FDA grants Pfizer vaccine full approval",
+      "description": "FDA expected to grant full approval to Pfizer COVID-19 vaccine, enabling broader mandates",
+      "type": "Health",
+      "impact": "Vaccine mandate expansion, business reopening confidence, pharmaceutical stocks"
+    },
+    {
+      "date": "2021-08-23",
+      "incident": "FDA officially approves Pfizer vaccine",
+      "description": "FDA announced official approval of Pfizer vaccine, enabling schools and businesses to enforce mandates",
+      "type": "Health",
+      "impact": "Increased vaccination rates expected, reduced COVID uncertainty"
+    },
+    {
+      "date": "2021-08-25",
+      "incident": "Moderna seeks FDA approval",
+      "description": "Moderna completed application for FDA approval of its vaccine",
+      "type": "Health",
+      "impact": "Pharmaceutical sector developments"
+    },
+    {
+      "date": "2021-08-27",
+      "incident": "Nigerian school children released",
+      "description": "Nearly 100 kidnapped school children in Nigeria released after $140,000 ransom paid",
+      "type": "Geopolitical",
+      "impact": "Regional security concerns, kidnapping crisis"
+    },
+    {
+      "date": "2021-09-08",
+      "incident": "Yandex DDoS attack",
+      "description": "Major DDoS attack on Russian internet company Yandex",
+      "type": "Cybersecurity",
+      "impact": "Tech sector vulnerabilities, Russian tech company impact"
+    },
+    {
+      "date": "2021-09-08",
+      "incident": "New Zealand DDoS attacks",
+      "description": "Banks and national postal service temporarily unavailable due to DDoS attacks",
+      "type": "Cybersecurity",
+      "impact": "Financial services disruption"
+    },
+    {
+      "date": "2021-09-early",
+      "incident": "Howard University ransomware",
+      "description": "Ransomware attack canceled classes at Howard University, university-wide network and Wi-Fi systems compromised",
+      "type": "Cybersecurity",
+      "impact": "Higher education sector vulnerability, operational disruptions"
+    },
+    {
+      "date": "2021-09-08",
+      "incident": "Olympus ransomware attack",
+      "description": "Ransomware gang compromised Olympus tech company networks across Africa, Europe, and Middle East",
+      "type": "Cybersecurity",
+      "impact": "Multinational corporate vulnerabilities, tech sector concerns"
+    },
+    {
+      "date": "2021-09-01",
+      "incident": "Paris hospital COVID data theft",
+      "description": "Hackers stole COVID test data of 1.4 million people from Paris hospital system",
+      "type": "Cybersecurity",
+      "impact": "Healthcare data breach concerns"
+    },
+    {
+      "date": "2021-09-20",
+      "incident": "China Evergrande crisis escalates",
+      "description": "Evergrande facing imminent default on $300B debt, missed interest payments, suppliers unpaid",
+      "type": "Economic",
+      "impact": "Hong Kong Property Index fell 6.7%, Ping An Insurance down 6%, contagion fears across Chinese markets, global market uncertainty"
+    },
+    {
+      "date": "2021-09-20",
+      "incident": "Global markets jolted by Evergrande",
+      "description": "World stock markets caught in contagion fears from Evergrande debt crisis",
+      "type": "Economic",
+      "impact": "Risk asset sell-off, emerging market concerns, banking sector worries"
+    },
+    {
+      "date": "2021-09-20",
+      "incident": "GetHealth database exposure",
+      "description": "61 million records exposed via unsecured database including health and fitness tracker data",
+      "type": "Cybersecurity",
+      "impact": "Privacy concerns in health tech sector"
+    },
+    {
+      "date": "2021-09-21",
+      "incident": "Iowa agriculture ransomware",
+      "description": "NEW Cooperative Inc. hit by ransomware attack",
+      "type": "Cybersecurity",
+      "impact": "Agriculture sector vulnerabilities, supply chain concerns"
+    },
+    {
+      "date": "2021-10-01",
+      "incident": "Stock markets rally start Q4",
+      "description": "Wall Street surged on positive economic data, COVID progress, infrastructure bill hopes",
+      "type": "Economic",
+      "impact": "Risk-on sentiment, economic optimism"
+    },
+    {
+      "date": "2021-10-01",
+      "incident": "Merck COVID pill announcement",
+      "description": "Merck announced experimental oral COVID-19 drug reduced death/hospitalization by ~50%",
+      "type": "Health",
+      "impact": "Pharmaceutical stocks surge, economic reopening sentiment boost"
+    },
+    {
+      "date": "2021-10-05",
+      "incident": "Port congestion crisis peaks",
+      "description": "146 ships in LA/LB ports with 90 at anchor, half million containers waiting, 9-12 day wait times",
+      "type": "Business",
+      "impact": "Supply chain crisis, shipping costs doubled, holiday shortage warnings, inflation pressures"
+    },
+    {
+      "date": "2021-10-13",
+      "incident": "Extended port hours announced",
+      "description": "LA/LB ports launched 24/7 operations pilot program to reduce congestion",
+      "type": "Business",
+      "impact": "Attempt to address supply chain bottlenecks"
+    },
+    {
+      "date": "2021-10-25",
+      "incident": "$24 billion goods stuck at ports",
+      "description": "Extreme port congestion with $24B in goods floating outside California ports",
+      "type": "Business",
+      "impact": "Supply chain crisis worsening, inflation concerns, holiday shortage risks"
+    },
+    {
+      "date": "2021-10-26",
+      "incident": "Tesla-Hertz deal announced",
+      "description": "Hertz ordered 100,000 Tesla vehicles in major EV deal",
+      "type": "Business",
+      "impact": "Tesla stock surged, EV sector momentum"
+    },
+    {
+      "date": "2021-10-October",
+      "incident": "Strong earnings season",
+      "description": "S&P 500 best month since November 2020, up 6.91%, Nasdaq up 7.27%, strong corporate earnings",
+      "type": "Economic",
+      "impact": "Market confidence despite inflation and supply chain concerns"
+    },
+    {
+      "date": "2021-10-October",
+      "incident": "Oil reaches 7-year highs",
+      "description": "Oil prices reached highest since 2014, climbing to $84 per barrel",
+      "type": "Economic",
+      "impact": "Energy sector gains, inflation concerns, consumer cost increases"
+    },
+    {
+      "date": "2021-11-03",
+      "incident": "Federal debt ceiling deadline approaches",
+      "description": "Federal debt ceiling expected to be resolved before early December to allow government payments",
+      "type": "Economic",
+      "impact": "Market uncertainty, potential volatility as deadline approaches"
+    },
+    {
+      "date": "2021-11-03",
+      "incident": "Fed begins tapering",
+      "description": "Federal Reserve announced $15B per month reduction in asset purchases, more accelerated than expected",
+      "type": "Economic",
+      "impact": "Inflation concerns acknowledged, potential rate hike signals"
+    },
+    {
+      "date": "2021-11-10",
+      "incident": "Car manufacturers commit to phase out fossil fuels",
+      "description": "24 nations and Ford, Mercedes-Benz, Volvo agree to phase out petrol/diesel cars by 2030 at COP26",
+      "type": "Business",
+      "impact": "Automotive sector transformation, EV sector boost, traditional auto concerns"
+    },
+    {
+      "date": "2021-11-10",
+      "incident": "YouTube removes dislike count",
+      "description": "YouTube removed public dislike count from videos, met with near universal opposition",
+      "type": "Business",
+      "impact": "Content creator platform changes, user experience debates"
+    },
+    {
+      "date": "2021-11-mid",
+      "incident": "Inflation hits 30-year high",
+      "description": "U.S. consumer prices rose 6.2% year-over-year, highest inflation in over 30 years",
+      "type": "Economic",
+      "impact": "Fed policy shift, tech stock pressure, consumer purchasing power concerns"
+    },
+    {
+      "date": "2021-11-22",
+      "incident": "Austria COVID lockdown",
+      "description": "Austria launched new COVID lockdown as Europe confronted surge",
+      "type": "Health",
+      "impact": "European economic concerns, supply chain disruptions"
+    },
+    {
+      "date": "2021-11-24",
+      "incident": "Powell reappointed as Fed Chair",
+      "description": "Biden reappointed Jerome Powell as Federal Reserve Chairman",
+      "type": "Economic",
+      "impact": "Policy continuity expected, inflation focus"
+    },
+    {
+      "date": "2021-11-26",
+      "incident": "Omicron variant discovered",
+      "description": "New highly transmissible COVID-19 Omicron variant emerged, markets plummeted",
+      "type": "Health",
+      "impact": "Global markets fell >2% after Thanksgiving, energy sector worst performer, oil biggest monthly decline since March 2020, travel stocks crashed"
+    },
+    {
+      "date": "2021-11-26",
+      "incident": "Moderna CEO warns on vaccine effectiveness",
+      "description": "Moderna CEO said current vaccines would be less effective against Omicron, new vaccines months away",
+      "type": "Health",
+      "impact": "Market panic, pharmaceutical stock volatility, economic uncertainty"
+    },
+    {
+      "date": "2021-11-29",
+      "incident": "Powell retires 'transitory' inflation term",
+      "description": "Fed Chair Powell conceded persistent inflation risks increased, retired 'transitory' description",
+      "type": "Economic",
+      "impact": "Shift in Fed policy expectations, rate hike anticipation"
+    },
+    {
+      "date": "2021-11-November",
+      "incident": "Oil crashes 20.8%",
+      "description": "WTI crude oil fell 20.8% in November on Omicron fears",
+      "type": "Economic",
+      "impact": "Energy sector losses, economic slowdown concerns"
+    },
+    {
+      "date": "2021-12-01",
+      "incident": "House passes Build Back Better",
+      "description": "House passed $1.75B Build Back Better social spending plan, Senate approval uncertain",
+      "type": "Economic",
+      "impact": "Fiscal policy implications, sector-specific impacts"
+    },
+    {
+      "date": "2021-12-16",
+      "incident": "Fed accelerates taper, signals rate hikes",
+      "description": "Fed announced bond purchases end by March, indicated three quarter-point rate increases in 2022",
+      "type": "Economic",
+      "impact": "Nasdaq fell 2.47%, Big Tech dropped, growth stocks sold off, investors pivot to value"
+    },
+    {
+      "date": "2021-12-16",
+      "incident": "Tech stocks selloff",
+      "description": "Nvidia, Apple, Microsoft, Amazon, Tesla fell 2-6%, impacting Nasdaq and S&P 500",
+      "type": "Economic",
+      "impact": "Growth stock rotation, tech sector pressure from rate hike outlook"
+    },
+    {
+      "date": "2021-12-20",
+      "incident": "S&P 500 largest decline since December 1",
+      "description": "S&P 500 fell 52.62 points or 1.1%, largest one-day decline in three weeks",
+      "type": "Economic",
+      "impact": "Market volatility on Omicron and Fed concerns"
+    },
+    {
+      "date": "2021-12-30",
+      "incident": "Markets end 2021 near record highs",
+      "description": "S&P 500 up 28.7% for year, Nasdaq up 21.3%, Dow up 19%, 70 new record highs despite volatility",
+      "type": "Economic",
+      "impact": "Strong year despite inflation, supply chain, COVID concerns"
+    },
+    {
+      "date": "2021-12-31",
+      "incident": "Cryptocurrency market cap tops $3 trillion",
+      "description": "Crypto gained mainstream acceptance, market cap exceeded $3T, but China banned all crypto transactions",
+      "type": "Business",
+      "impact": "Crypto sector growth, regulatory scrutiny, China ban impact"
+    },
+    {
+      "date": "2021-12-December",
+      "incident": "Omicron viewed as manageable",
+      "description": "After initial panic, investors viewed Omicron spread as manageable despite restrictions",
+      "type": "Health",
+      "impact": "Markets recovered from November lows, cautious optimism"
+    },
+    {
+      "date": "2021-12-December",
+      "incident": "U.S. gas prices reach $3.38/gallon",
+      "description": "National average retail gas price rose to $3.383/gallon, up from $3.175 in September",
+      "type": "Economic",
+      "impact": "Consumer cost pressures, inflation concerns"
+    },
+    {
+      "date": "2021-12-December",
+      "incident": "Weekly jobless claims at 52-year low",
+      "description": "U.S. weekly unemployment claims fell to 52-year low",
+      "type": "Economic",
+      "impact": "Labor market tightness, wage pressure, economic recovery signal"
+    },
+    {
+      "date": "2022-01-03",
+      "incident": "Quadrantid meteor shower peak",
+      "description": "Quadrantid meteor shower peaked with ideal new moon viewing conditions",
+      "type": "Other",
+      "impact": "No market impact"
+    },
+    {
+      "date": "2022-01-04 to 2022-01-06",
+      "incident": "Nigeria Zamfara massacres",
+      "description": "At least 200 people killed by bandit group in Zamfara State, northwestern Nigeria",
+      "type": "Geopolitical",
+      "impact": "Regional security concerns"
+    },
+    {
+      "date": "2022-01-early",
+      "incident": "CES 2022",
+      "description": "Consumer Electronics Show featured foldable laptops (ASUS), electric trucks (Chevrolet Silverado EV), AI drones, autonomous tractors",
+      "type": "Business",
+      "impact": "Tech sector innovation showcase, product announcements"
+    },
+    {
+      "date": "2022-01-07",
+      "incident": "Ahmaud Arbery murderers sentenced",
+      "description": "Three defendants convicted in Ahmaud Arbery murder sentenced to life in prison",
+      "type": "Geopolitical",
+      "impact": "Social justice milestone"
+    },
+    {
+      "date": "2022-01-18",
+      "incident": "Microsoft announces Activision acquisition",
+      "description": "Microsoft to acquire Activision Blizzard for $68.7B, largest gaming deal, third-largest gaming company",
+      "type": "Business",
+      "impact": "Gaming sector consolidation, Microsoft stock impact, metaverse strategy, regulatory scrutiny expected"
+    },
+    {
+      "date": "2022-01-24",
+      "incident": "James Webb Space Telescope arrives at L2",
+      "description": "Webb Telescope successfully reached observation point, 100x more powerful than Hubble",
+      "type": "Other",
+      "impact": "Scientific milestone, aerospace sector positive"
+    },
+    {
+      "date": "2022-01-January",
+      "incident": "Merck anti-COVID drug authorized in Mexico",
+      "description": "Mexican regulator granted emergency use for Molnupiravir for severe COVID-19",
+      "type": "Health",
+      "impact": "Pharmaceutical sector, COVID treatment options expand"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "Global supply chain crisis continues",
+      "description": "Port congestion, shipping container shortages, semiconductor shortage persisted throughout period with record import volumes",
+      "type": "Business",
+      "impact": "Production delays for all tech companies, increased costs, holiday shortages, inflation driver"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "Semiconductor shortage ongoing",
+      "description": "Chip shortage continued affecting automotive, consumer electronics, data centers",
+      "type": "Business",
+      "impact": "Production constraints for Apple, Microsoft, NVIDIA, automotive sector"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "Inflation surge accelerates",
+      "description": "Inflation rose from 5% in May to 6.2% in November, then 6.8% in December, highest in 40 years",
+      "type": "Economic",
+      "impact": "Fed policy shift, tech stock valuations pressured, consumer purchasing power eroded"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "COVID-19 variants (Delta, Omicron)",
+      "description": "Delta dominated summer/fall, Omicron emerged November causing new wave",
+      "type": "Health",
+      "impact": "Supply chain disruptions, labor shortages, business uncertainty, travel restrictions"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "Ransomware attacks surge",
+      "description": "Major ransomware attacks on universities, hospitals, agriculture, manufacturing throughout period",
+      "type": "Cybersecurity",
+      "impact": "Cybersecurity sector boost, operational disruptions, insurance costs rise"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "Energy prices surge",
+      "description": "Oil reached $84/barrel in October, natural gas crisis in Europe, energy sector up 48% for 2021",
+      "type": "Economic",
+      "impact": "Inflation driver, energy sector gains, cost pressures on businesses"
+    },
+    {
+      "date": "2021-07 to 2022-01",
+      "incident": "China regulatory crackdown",
+      "description": "Ongoing regulatory pressure on tech, education, property sectors in China",
+      "type": "Regulatory",
+      "impact": "Chinese tech stocks under pressure, education stocks crashed, market uncertainty"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "date": "2021-01-06",
+    "incident": "U.S. Capitol Attack",
+    "description": "Thousands of pro-Trump protesters stormed the United States Capitol, resulting in 5 deaths, multiple injuries, and evacuation of Congress during Electoral College certification",
+    "type": "Geopolitical",
+    "impact": "Political instability, market volatility, tech platforms banning Trump"
+  },
+  {
+    "date": "2021-01-07",
+    "incident": "Elon Musk becomes world's richest person",
+    "description": "Tesla CEO Elon Musk surpassed Jeff Bezos with net worth exceeding $185 billion",
+    "type": "Business",
+    "impact": "Tesla stock surge, tech sector confidence"
+  },
+  {
+    "date": "2021-01-13",
+    "incident": "Trump Second Impeachment",
+    "description": "Donald Trump became first U.S. president to be impeached twice by the House of Representatives for incitement of insurrection",
+    "type": "Geopolitical",
+    "impact": "Political uncertainty affecting markets"
+  },
+  {
+    "date": "2021-01-20",
+    "incident": "Biden Inauguration",
+    "description": "Joe Biden sworn in as 46th President of the United States. Trump refused to attend, first outgoing president to boycott successor's inauguration since 1869",
+    "type": "Geopolitical",
+    "impact": "Policy changes affecting tech, energy, and healthcare sectors"
+  },
+  {
+    "date": "2021-01-27",
+    "incident": "GameStop Short Squeeze",
+    "description": "GameStop stock surged approximately 1,500% driven by retail investors from Reddit's r/wallstreetbets, causing hedge fund liquidations",
+    "type": "Economic",
+    "impact": "Market volatility, regulatory scrutiny of retail trading platforms"
+  },
+  {
+    "date": "2021-02-13 to 2021-02-17",
+    "incident": "Texas Winter Storm Uri",
+    "description": "Unprecedented winter storm caused $80-130 billion in damages, disrupted energy sector with 19% of oil refining capacity and 7% of natural gas production offline",
+    "type": "Climate",
+    "impact": "Semiconductor manufacturing disruption, energy sector impact, supply chain delays"
+  },
+  {
+    "date": "2021-02-25",
+    "incident": "Treasury Market Flash Event",
+    "description": "Significant flash event in U.S. Treasury markets with sharp price drops and strained liquidity before recovery within an hour",
+    "type": "Economic",
+    "impact": "Market uncertainty about interest rates affecting tech stocks"
+  },
+  {
+    "date": "2021-03-06",
+    "incident": "Biden's $1.9 Trillion Stimulus Package",
+    "description": "American Rescue Plan Act signed into law providing COVID-19 relief",
+    "type": "Economic",
+    "impact": "Inflation expectations, government debt concerns"
+  },
+  {
+    "date": "2021-03-09",
+    "incident": "Microsoft Exchange Server Hack",
+    "description": "Four zero-day vulnerabilities exploited affecting 250,000 servers globally including 30,000 organizations in the United States",
+    "type": "Cybersecurity",
+    "impact": "Enterprise security concerns, cybersecurity stocks affected"
+  },
+  {
+    "date": "2021-03-23 to 2021-03-29",
+    "incident": "Suez Canal Blockage (Ever Given)",
+    "description": "Container ship Ever Given blocked Suez Canal disrupting global trade worth $9.6 billion per day",
+    "type": "Business",
+    "impact": "Supply chain disruptions, shipping delays, increased costs"
+  },
+  {
+    "date": "2021-03-26",
+    "incident": "Archegos Capital Management Collapse",
+    "description": "Hedge fund defaulted on margin calls triggering massive liquidations. Credit Suisse lost $5.5B, Nomura $2.85B, Morgan Stanley $911M",
+    "type": "Economic",
+    "impact": "Banking stocks sell-off, market volatility, ViacomCBS shares plunged 27%"
+  },
+  {
+    "date": "2021-04-02",
+    "incident": "Hualien Train Derailment",
+    "description": "Taroko Express train derailed in Taiwan killing at least 50 people and injuring 156 others",
+    "type": "Disaster",
+    "impact": "Transportation sector concerns in Taiwan"
+  },
+  {
+    "date": "2021-04-03",
+    "incident": "Facebook Data Leak",
+    "description": "Data from over 533 million Facebook users made freely available on hacking forum including personal information",
+    "type": "Cybersecurity",
+    "impact": "€265M fine, data privacy concerns in tech sector"
+  },
+  {
+    "date": "2021-04-15",
+    "incident": "Biden Announces Afghanistan Troop Withdrawal",
+    "description": "U.S. President announced all remaining American troops will leave Afghanistan by September 11",
+    "type": "Geopolitical",
+    "impact": "Defense sector impact, geopolitical uncertainty"
+  },
+  {
+    "date": "2021-05-07",
+    "incident": "Colonial Pipeline Ransomware Attack",
+    "description": "DarkSide group cyberattack shut down 5,500 miles of critical U.S. oil pipeline. Company paid $4.4M ransom",
+    "type": "Cybersecurity",
+    "impact": "Gasoline shortages, critical infrastructure vulnerability exposed, energy sector concerns"
+  },
+  {
+    "date": "2021-05-10 to 2021-05-21",
+    "incident": "Israel-Palestine Crisis",
+    "description": "Major escalation of conflict with Hamas firing barrages of rockets at Israeli cities and Israel retaliating with airstrikes in Gaza",
+    "type": "Geopolitical",
+    "impact": "Regional instability, oil prices volatility"
+  },
+  {
+    "date": "2021-06-24",
+    "incident": "Surfside Condo Collapse",
+    "description": "Condominium complex in Surfside, Florida collapsed killing dozens with many more missing",
+    "type": "Disaster",
+    "impact": "Real estate sector concerns, construction industry scrutiny"
+  },
+  {
+    "date": "2021-07-01 to 2021-07-04",
+    "incident": "Kaseya Ransomware Attack",
+    "description": "Over Fourth of July weekend, attackers infiltrated Kaseya's network deploying ransomware to MSPs affecting approximately 1,500 clients",
+    "type": "Cybersecurity",
+    "impact": "IT and cybersecurity sector impact, supply chain attack concerns"
+  },
+  {
+    "date": "2021-07-07",
+    "incident": "Haiti President Assassination",
+    "description": "Haitian President Jovenel Moise assassinated in an attack on his private residence",
+    "type": "Geopolitical",
+    "impact": "Regional instability"
+  },
+  {
+    "date": "2021-07-23 to 2021-08-08",
+    "incident": "Tokyo Olympics",
+    "description": "Delayed Olympics finally took place without foreign spectators due to COVID-19. Estimated losses of up to $29.1B for Japan",
+    "type": "Business",
+    "impact": "Economic losses for Japan, ongoing pandemic uncertainty"
+  },
+  {
+    "date": "2021-01 to 2021-07",
+    "incident": "Global Semiconductor Shortage",
+    "description": "Acute semiconductor shortage severely impacting tech and automotive sectors. Ford projected loss of 1.1M vehicle sales, Apple warned of iPhone impacts",
+    "type": "Business",
+    "impact": "Production delays across 169 industries, estimated 20% shortfall affecting Apple, Microsoft, NVIDIA, automotive companies"
+  },
+  {
+    "date": "2021-01 to 2021-07",
+    "incident": "Inflation Surge",
+    "description": "U.S. CPI reached 5% in May (first time since 2008), rising to 6.8% by December. Rising inflation concerns throughout first half of 2021",
+    "type": "Economic",
+    "impact": "Federal Reserve policy concerns, high-growth tech stock valuations impacted"
+  },
+  {
+    "date": "2021-01 to 2021-07",
+    "incident": "COVID-19 Pandemic Continuation",
+    "description": "Ongoing pandemic with Delta variant becoming dominant by summer 2021, accounting for 80%+ of new cases",
+    "type": "Health",
+    "impact": "Supply chain disruptions, employee absenteeism, production delays globally"
+  },
+  {
+    "date": "2021-01 to 2021-07",
+    "incident": "Supply Chain Crisis",
+    "description": "Global supply chain disruptions exposed vulnerabilities of just-in-time manufacturing, shortages of components, shipping containers, and labor",
+    "type": "Business",
+    "impact": "Production delays, increased costs for tech companies like Apple, Microsoft, IBM"
+  },
+  {
+    "date": "2021-01-01",
+    "incident": "U.S. COVID-19 Milestone",
+    "description": "United States reached 20 million COVID-19 cases on first day of new year",
+    "type": "Health",
+    "impact": "Continued pandemic economic impact"
+  },
+  {
+    "date": "2021-02-01",
+    "incident": "Myanmar Military Coup",
+    "description": "Myanmar military seized power, detaining Aung San Suu Kyi and other civilian leaders",
+    "type": "Geopolitical",
+    "impact": "Regional instability, sanctions affecting businesses"
+  },
+  {
+    "date": "2021-07-beginning",
+    "incident": "China Evergrande Crisis Warning Signs",
+    "description": "Construction halted on numerous Evergrande projects in July 2021 due to unpaid bills, marking beginning of major crisis",
+    "type": "Economic",
+    "impact": "China property sector concerns, global market uncertainty"
+  },
+  {
+    "date": "2020-12 continuing into 2021-01 to 2021-03",
+    "incident": "SolarWinds Cyber Attack",
+    "description": "Sophisticated supply chain attack affecting up to 18,000 customers including Microsoft, Intel, and multiple government agencies",
+    "type": "Cybersecurity",
+    "impact": "Cybersecurity concerns across tech sector and government"
+  }
+]
